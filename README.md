@@ -10,6 +10,7 @@ ToDo:
  - comb through and make sure all terminology is consistent through the game (and across other games???)
  - All Player Skills text
  - Enemy Grimoire Skills text
+ - optimize skill texts to minimize text movement during skill level up
  - Player Skill Bugfixes, if necessary
  - Item text
  - Shop equipment fixes, if necessary
