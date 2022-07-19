@@ -1,4 +1,4 @@
-# Transparency-Odyssey-U
+# Transparency-Odyssey-U2
 
 A text patch for Etrian Odyssey 2 Untold: The Fafnir Knight, which alters text on skills, items, etc. in order to inform the player of important numbers and mechanics such as damage modifiers or the importance of certain player stats.
 
