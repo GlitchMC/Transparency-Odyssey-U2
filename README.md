@@ -17,6 +17,7 @@ ToDo:
  - Shop equipment fixes, if necessary
  - Shop equipment texts
  - Guild Food Effects text
+ - comb through and make sure all terminology is consistent through the game (and across other games???)
  - get this to work with tildehat's modloader in order to reduce download size and ease of use with other mods
 
 &nbsp;
